@@ -1,7 +1,6 @@
 +++
 date = 2022-09-20T18:15:00Z
 description = "Des"
-draft = true
 image = "/uploads/img20210908082603.jpg"
 title = "Mic Drop"
 type = "Fe"
